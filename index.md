@@ -61,6 +61,8 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="postposed">Update: Workshop has been postponed</h2>
+<p>A new policy change around our organization's rapidly evolving response to the coronavirus (COVID-19) outbreak. As a result, we are unable to conduct the upcoming Data Carpentry workshop (March 10th - 11th) in its intended format (in-person, hands-on and interactive) and need to postpone to a later date.</p>
 
 <h2 id="general">General Information</h2>
 
